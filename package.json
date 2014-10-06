@@ -1,0 +1,23 @@
+{
+  "name": "node-8583crypt",
+  "version": "1.0.0",
+  "description": "8585 crypt ",
+  "main": "build/Release/poscrypt.node",
+  "scripts": {
+      "install": "node-gyp rebuild"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/renhui1225/node-8583crypt.git"
+  },
+  "keywords": [
+    "8583",
+    "crypt"
+  ],
+  "author": "renhui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renhui1225/node-8583crypt/issues"
+  },
+  "homepage": "https://github.com/renhui1225/node-8583crypt"
+}
